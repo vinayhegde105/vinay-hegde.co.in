@@ -32,9 +32,9 @@ _Please go and walk through the official GitHub [link](https://pages.github.com/
 ## My Website Output
 Please go and check that the URL of my domain: [https://vinay-hegde.co.in/]
 
-_Complete-Screenshot_
+<!-- _Complete-Screenshot_ -->
 
-![alt_txt](https://i.ibb.co/wS8N0mC/screencapture-yousafkhamza-tech-2021-11-03-14-35-00.png)
+<!-- ![alt_txt](https://i.ibb.co/wS8N0mC/screencapture-yousafkhamza-tech-2021-11-03-14-35-00.png) -->
 
 ----
 ## Directory Structure
